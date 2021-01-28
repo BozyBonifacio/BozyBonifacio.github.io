@@ -3,12 +3,12 @@ entries:
   rds-ui:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-28T16:59:21.385118+08:00"
+    created: "2021-01-28T18:26:53.8403474+08:00"
     description: A Helm chart for Kubernetes
-    digest: f7a3c9d9b64895101849f5aea1fa11700916bbaebe0c8aa1fbef7e25060a44c0
+    digest: a8ead5fbf7503b43db6099310912f944093b93866c21383d842ed38536506c1e
     name: rds-ui
     type: application
     urls:
-    - https://bozybonifacio.github.io/rds-ui-0.1.0.tgz
+    - rds-ui-0.1.0.tgz
     version: 0.1.0
-generated: "2021-01-28T16:59:21.3841181+08:00"
+generated: "2021-01-28T18:26:53.8393475+08:00"
