@@ -3,12 +3,12 @@ entries:
   default-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-30T17:40:36.3917261+08:00"
+    created: "2021-01-30T17:50:25.5983339+08:00"
     description: A Helm chart for Kubernetes
-    digest: f22a83b84347ed77fbf374c89074efc0ac62724edff842e9ebb4da5b705f6789
+    digest: 53b195c561c41ca32a3a969469afc70ba4469a73e9aa2103a5d98d2fe714d9aa
     name: default-chart
     type: application
     urls:
-    - default-chart-0.1.0.tgz
-    version: 0.1.0
-generated: "2021-01-30T17:40:36.390726+08:00"
+    - default-chart-0.1.1.tgz
+    version: 0.1.1
+generated: "2021-01-30T17:50:25.5973447+08:00"
